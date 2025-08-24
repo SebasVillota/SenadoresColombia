@@ -1,6 +1,6 @@
 # Proyecto: API de Senadores de Colombia
 
-Este proyecto consiste en extraer datos públicos de senadores de Colombia, exponerlos mediante una API REST y visualizarlos en un frontend sencillo hecho en React.  
+Este proyecto consiste en extraer datos públicos de senadores de Colombia "https://www.datos.gov.co/Funci-n-p-blica/DIRECTORIO-DE-SENADORES-DE-LA-REPUBLICA/sjwx-dr6n/about_data" con la API que suministra la pagina de datos.gov.co, exponerlos mediante una API REST y visualizarlos en un frontend hecho en React.  
 
 ---
 
